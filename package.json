@@ -1,0 +1,23 @@
+﻿{
+  "name": "com.triple-a-studios.advanced-2-5d-character-controller",
+  "description": "An Advanced 2.5D Character Controller",
+  "version": "1.0.0",
+  "displayName": "Advanced 2.5D Character Controller",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/Triple-A-Studios/TripleA-Utils.git",
+  "changelogUrl": "https://github.com/Triple-A-Studios/TripleA-Utils.git",
+  "licenseUrl": "https://github.com/Triple-A-Studios/TripleA-Utils.git",
+  "dependencies": {
+    "com.triple-a-studios.utils" : "1.0.0"
+  },
+  "keywords": [
+    "character controller",
+    "advanced",
+    "2.5d"
+  ],
+  "author": {
+    "name": "Triple-A-Studios",
+    "email": "ali.qadir.007@outlook.com",
+    "url": "https://github.com/Triple-A-Studios"
+  }
+}
