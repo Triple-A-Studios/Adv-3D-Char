@@ -1,7 +1,10 @@
 {
-    "name": "com.TripleAStudios.2-5dCharAdv",
-    "rootNamespace": "",
-    "references": [],
+    "name": "com.TripleAStudios.Adv3dChar",
+    "rootNamespace": "TripleA",
+    "references": [
+        "com.TripleAStudios.Utils",
+        "com.TripleAStudios.FSM"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

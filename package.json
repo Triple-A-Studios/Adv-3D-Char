@@ -8,7 +8,8 @@
   "changelogUrl": "https://github.com/Triple-A-Studios/TripleA-Utils.git",
   "licenseUrl": "https://github.com/Triple-A-Studios/TripleA-Utils.git",
   "dependencies": {
-    "com.triple-a-studios.utils" : "1.0.0"
+    "com.triple-a-studios.utils" : "1.1.1",
+    "com.triple-a-studios.statemachine" : "1.0.0"
   },
   "keywords": [
     "character controller",
